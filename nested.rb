@@ -143,8 +143,6 @@ def adding_to_dennis
      programmer_hash[:dennis_ritchie][:known_for] << "ALTRAN"
   programmer_hash
 
-end
 
-adding_to_dennis
 
 end
